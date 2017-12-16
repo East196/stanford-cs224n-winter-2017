@@ -14,4 +14,12 @@ _深度学习自然语言处理_
 ## 相关资源
 [码农场](http://www.hankcs.com/nlp) 内含cs224n笔记
 
-[我爱自然语言处理](http://www.52nlp.cn/) 
+[我爱自然语言处理](http://www.52nlp.cn/)
+
+## 构建说明
+`pip install mkdocs fabric3` python3安装mkdocs和fabric3
+> `pip install mkdocs fabric` python2安装mkdocs和fabric
+
+`fab build` 构建并copy至个人主页项目
+
+`fab serve` 开启服务
