@@ -1,6 +1,3 @@
-# stanford-cs224n-winter-2017
-斯坦福2017冬季cs224n课程笔记
-
 ## 课程名称
 _Natural Language Processing with Deep Learning_
 

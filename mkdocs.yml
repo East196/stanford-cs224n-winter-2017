@@ -1,7 +1,7 @@
 site_name: 斯坦福2017冬季cs224n课程笔记
 theme: readthedocs
 pages:
-- 主页: index.md
+- 关于课程: index.md
 - 自然语言处理与深度学习简介: lecture1.md
 - 词向量表示Word2Vec: lecture2.md
 - 全局词向量表示GloVe: lecture3.md
