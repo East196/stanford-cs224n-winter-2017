@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 
 
 ###
-# download [pdf] in [this page]
+# python2 download [pdf] in [this page]
 ###
 if __name__ == '__main__':
 
